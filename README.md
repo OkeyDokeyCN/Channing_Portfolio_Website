@@ -10,3 +10,5 @@
 ![](/images/average_number_words.png)
 
 ![](/images/features.png)
+
+![](/images/word_cloud.png)
