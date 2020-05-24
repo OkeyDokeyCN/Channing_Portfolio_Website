@@ -6,3 +6,8 @@
 * Extracted features and converted the text documents to a sparse matrix of token counts.
 * Implemented Logistic Regression,Random Forest Classifier, Support Vector classifier, Naive Bayes and compared forecasting accuracy through cross-validation.
 * Optimized model performance using GridSearchCV to reach best accuracy.
+
+![](/images/average_number_words.png)
+
+#  
+![](/images/features.png)
