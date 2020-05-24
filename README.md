@@ -9,5 +9,4 @@
 
 ![](/images/average_number_words.png)
 
-#  
 ![](/images/features.png)
